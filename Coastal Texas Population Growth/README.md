@@ -1,6 +1,6 @@
 # Coastal Texas Population Projections, 2050
 
-This file contains population growth projections for coastal Texas, taken from a Hoque et al. (2014). I copied the variables manually into a csv, cleaned the data using R, and exported this csv file.
+This file contains population growth projections for coastal Texas, taken from a Hoque et al. (2014). I copied the variables manually into a csv, cleaned the data using R, and exported this csv file. NOTE: I am not a demographer, so I can't comment on the validity of these projections.
 
 ## Variables
 
