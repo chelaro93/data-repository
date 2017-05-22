@@ -7,7 +7,7 @@ This file contains 122,379 tweets about climate change from approximately 5/8–
     include_rts = FALSE,
     retryonratelimit = TRUE)
 
-I then deleted some extraneous variables to keep the size of this file reasonable.
+I then deleted some extraneous variables to keep the size of the data file reasonable.
 
 ## Variables
 
