@@ -2,7 +2,10 @@
 
 This file contains 122,379 tweets about climate change from approximately 5/8–5/18, 2017. The tweets were downloaded using [`rtweet`](https://cran.r-project.org/web/packages/rtweet/index.html) and Twitter's REST API. Specifically, I searched for tweets containing "climate change" or "global warming":
 
-    search_tweets(q = '"climate change" OR "global warming"', n = 1000000, include_rts = FALSE, retryonratelimit = TRUE)
+    search_tweets(q = '"climate change" OR "global warming"',
+    n = 1000000,
+    include_rts = FALSE,
+    retryonratelimit = TRUE)
 
 I then deleted some extraneous variables to keep the size of this file reasonable.
 
