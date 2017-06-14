@@ -1,0 +1,407 @@
+FIPS,county,state
+1003,Baldwin County,AL
+1097,Mobile County,AL
+2013,Aleutians East Borough,AK
+2016,Aleutians West Census Area,AK
+2020,Anchorage Municipality,AK
+2050,Bethel Census Area,AK
+2060,Bristol Bay Borough,AK
+2070,Dillingham Census Area,AK
+2100,Haines Borough,AK
+2105,Hoonah-Angoon Census Area,AK
+2110,Juneau City and Borough,AK
+2122,Kenai Peninsula Borough,AK
+2130,Ketchikan Gateway Borough,AK
+2150,Kodiak Island Borough,AK
+2164,Lake and Peninsula Borough,AK
+2170,Matanuska-Susitna Borough,AK
+2180,Nome Census Area,AK
+2185,North Slope Borough,AK
+2188,Northwest Arctic Borough,AK
+2195,Petersburg Census Area,AK
+2198,Prince of Wales-Hyder Census Area,AK
+2201,Prince of Wales-Outer Ketchika,AK
+2220,Sitka City and Borough,AK
+2232,Skagway-Hoonah-Angoon,AK
+2261,Valdez-Cordova Census Area,AK
+2270,Wade Hampton Census Area,AK
+2275,Wrangell City and Borough,AK
+2280,Wrangell-Petersburg,AK
+2282,Yakutat City and Borough,AK
+6001,Alameda County,CA
+6013,Contra Costa County,CA
+6015,Del Norte County,CA
+6023,Humboldt County,CA
+6037,Los Angeles County,CA
+6041,Marin County,CA
+6045,Mendocino County,CA
+6053,Monterey County,CA
+6055,Napa County,CA
+6059,Orange County,CA
+6067,Sacramento County,CA
+6073,San Diego County,CA
+6075,San Francisco County,CA
+6077,San Joaquin County,CA
+6079,San Luis Obispo County,CA
+6081,San Mateo County,CA
+6083,Santa Barbara County,CA
+6085,Santa Clara County,CA
+6087,Santa Cruz County,CA
+6095,Solano County,CA
+6097,Sonoma County,CA
+6111,Ventura County,CA
+6113,Yolo County,CA
+9001,Fairfield County,CT
+9007,Middlesex County,CT
+9009,New Haven County,CT
+9011,New London County,CT
+10001,Kent County,DE
+10003,New Castle County,DE
+10005,Sussex County,DE
+12005,Bay County,FL
+12009,Brevard County,FL
+12011,Broward County,FL
+12015,Charlotte County,FL
+12017,Citrus County,FL
+12019,Clay County,FL
+12021,Collier County,FL
+12029,Dixie County,FL
+12031,Duval County,FL
+12033,Escambia County,FL
+12035,Flagler County,FL
+12037,Franklin County,FL
+12045,Gulf County,FL
+12053,Hernando County,FL
+12057,Hillsborough County,FL
+12061,Indian River County,FL
+12065,Jefferson County,FL
+12069,Lake County,FL
+12071,Lee County,FL
+12073,Leon County,FL
+12075,Levy County,FL
+12077,Liberty County,FL
+12081,Manatee County,FL
+12085,Martin County,FL
+12086,Miami-Dade County,FL
+12087,Monroe County,FL
+12089,Nassau County,FL
+12091,Okaloosa County,FL
+12095,Orange County,FL
+12099,Palm Beach County,FL
+12101,Pasco County,FL
+12103,Pinellas County,FL
+12105,Polk County,FL
+12107,Putnam County,FL
+12109,St. Johns County,FL
+12111,St. Lucie County,FL
+12113,Santa Rosa County,FL
+12115,Sarasota County,FL
+12117,Seminole County,FL
+12123,Taylor County,FL
+12127,Volusia County,FL
+12129,Wakulla County,FL
+12131,Walton County,FL
+13025,Brantley County,GA
+13029,Bryan County,GA
+13039,Camden County,GA
+13049,Charlton County,GA
+13051,Chatham County,GA
+13127,Glynn County,GA
+13179,Liberty County,GA
+13191,McIntosh County,GA
+13305,Wayne County,GA
+15001,Hawaii County,HI
+15003,Honolulu County,HI
+15005,Kalawao County,HI
+15007,Kauai County,HI
+15009,Maui County,HI
+17031,Cook County,IL
+17097,Lake County,IL
+18089,Lake County,IN
+18091,LaPorte County,IN
+18127,Porter County,IN
+22019,Calcasieu Parish,LA
+22023,Cameron Parish,LA
+22045,Iberia Parish,LA
+22051,Jefferson Parish,LA
+22057,Lafourche Parish,LA
+22063,Livingston Parish,LA
+22071,Orleans Parish,LA
+22075,Plaquemines Parish,LA
+22087,St. Bernard Parish,LA
+22089,St. Charles Parish,LA
+22093,St. James Parish,LA
+22095,St. John the Baptist Parish,LA
+22099,St. Martin Parish,LA
+22101,St. Mary Parish,LA
+22103,St. Tammany Parish,LA
+22105,Tangipahoa Parish,LA
+22109,Terrebonne Parish,LA
+22113,Vermilion Parish,LA
+23005,Cumberland County,ME
+23009,Hancock County,ME
+23013,Knox County,ME
+23015,Lincoln County,ME
+23023,Sagadahoc County,ME
+23027,Waldo County,ME
+23029,Washington County,ME
+23031,York County,ME
+24003,Anne Arundel County,MD
+24005,Baltimore County,MD
+24009,Calvert County,MD
+24011,Caroline County,MD
+24015,Cecil County,MD
+24017,Charles County,MD
+24019,Dorchester County,MD
+24025,Harford County,MD
+24029,Kent County,MD
+24033,Prince George's County,MD
+24035,Queen Anne's County,MD
+24037,St. Mary's County,MD
+24039,Somerset County,MD
+24041,Talbot County,MD
+24045,Wicomico County,MD
+24047,Worcester County,MD
+24510,Baltimore city,MD
+25001,Barnstable County,MA
+25005,Bristol County,MA
+25007,Dukes County,MA
+25009,Essex County,MA
+25017,Middlesex County,MA
+25019,Nantucket County,MA
+25021,Norfolk County,MA
+25023,Plymouth County,MA
+25025,Suffolk County,MA
+26001,Alcona County,MI
+26003,Alger County,MI
+26005,Allegan County,MI
+26007,Alpena County,MI
+26009,Antrim County,MI
+26011,Arenac County,MI
+26013,Baraga County,MI
+26017,Bay County,MI
+26019,Benzie County,MI
+26021,Berrien County,MI
+26029,Charlevoix County,MI
+26031,Cheboygan County,MI
+26033,Chippewa County,MI
+26041,Delta County,MI
+26047,Emmet County,MI
+26053,Gogebic County,MI
+26055,Grand Traverse County,MI
+26061,Houghton County,MI
+26063,Huron County,MI
+26069,Iosco County,MI
+26083,Keweenaw County,MI
+26089,Leelanau County,MI
+26095,Luce County,MI
+26097,Mackinac County,MI
+26099,Macomb County,MI
+26101,Manistee County,MI
+26103,Marquette County,MI
+26105,Mason County,MI
+26109,Menominee County,MI
+26115,Monroe County,MI
+26121,Muskegon County,MI
+26127,Oceana County,MI
+26131,Ontonagon County,MI
+26139,Ottawa County,MI
+26141,Presque Isle County,MI
+26145,Saginaw County,MI
+26147,St. Clair County,MI
+26151,Sanilac County,MI
+26153,Schoolcraft County,MI
+26157,Tuscola County,MI
+26159,Van Buren County,MI
+26163,Wayne County,MI
+27031,Cook County,MN
+27075,Lake County,MN
+27137,St. Louis County,MN
+28045,Hancock County,MS
+28047,Harrison County,MS
+28059,Jackson County,MS
+33015,Rockingham County,NH
+33017,Strafford County,NH
+34001,Atlantic County,NJ
+34003,Bergen County,NJ
+34005,Burlington County,NJ
+34007,Camden County,NJ
+34009,Cape May County,NJ
+34011,Cumberland County,NJ
+34013,Essex County,NJ
+34015,Gloucester County,NJ
+34017,Hudson County,NJ
+34023,Middlesex County,NJ
+34025,Monmouth County,NJ
+34029,Ocean County,NJ
+34033,Salem County,NJ
+34035,Somerset County,NJ
+34039,Union County,NJ
+36001,Albany County,NY
+36005,Bronx County,NY
+36011,Cayuga County,NY
+36013,Chautauqua County,NY
+36027,Dutchess County,NY
+36029,Erie County,NY
+36045,Jefferson County,NY
+36047,Kings County,NY
+36055,Monroe County,NY
+36059,Nassau County,NY
+36061,New York County,NY
+36063,Niagara County,NY
+36071,Orange County,NY
+36073,Orleans County,NY
+36075,Oswego County,NY
+36079,Putnam County,NY
+36081,Queens County,NY
+36085,Richmond County,NY
+36087,Rockland County,NY
+36089,St. Lawrence County,NY
+36103,Suffolk County,NY
+36111,Ulster County,NY
+36117,Wayne County,NY
+36119,Westchester County,NY
+37013,Beaufort County,NC
+37015,Bertie County,NC
+37019,Brunswick County,NC
+37029,Camden County,NC
+37031,Carteret County,NC
+37041,Chowan County,NC
+37049,Craven County,NC
+37053,Currituck County,NC
+37055,Dare County,NC
+37073,Gates County,NC
+37091,Hertford County,NC
+37095,Hyde County,NC
+37129,New Hanover County,NC
+37133,Onslow County,NC
+37137,Pamlico County,NC
+37139,Pasquotank County,NC
+37141,Pender County,NC
+37143,Perquimans County,NC
+37177,Tyrrell County,NC
+37187,Washington County,NC
+39007,Ashtabula County,OH
+39035,Cuyahoga County,OH
+39043,Erie County,OH
+39085,Lake County,OH
+39093,Lorain County,OH
+39095,Lucas County,OH
+39123,Ottawa County,OH
+39143,Sandusky County,OH
+39173,Wood County,OH
+41007,Clatsop County,OR
+41009,Columbia County,OR
+41011,Coos County,OR
+41015,Curry County,OR
+41019,Douglas County,OR
+41039,Lane County,OR
+41041,Lincoln County,OR
+41051,Multnomah County,OR
+41057,Tillamook County,OR
+42017,Bucks County,PA
+42045,Delaware County,PA
+42049,Erie County,PA
+42101,Philadelphia County,PA
+44001,Bristol County,RI
+44003,Kent County,RI
+44005,Newport County,RI
+44007,Providence County,RI
+44009,Washington County,RI
+45013,Beaufort County,SC
+45015,Berkeley County,SC
+45019,Charleston County,SC
+45029,Colleton County,SC
+45035,Dorchester County,SC
+45043,Georgetown County,SC
+45051,Horry County,SC
+45053,Jasper County,SC
+48007,Aransas County,TX
+48039,Brazoria County,TX
+48057,Calhoun County,TX
+48061,Cameron County,TX
+48071,Chambers County,TX
+48167,Galveston County,TX
+48201,Harris County,TX
+48239,Jackson County,TX
+48245,Jefferson County,TX
+48261,Kenedy County,TX
+48273,Kleberg County,TX
+48321,Matagorda County,TX
+48355,Nueces County,TX
+48361,Orange County,TX
+48391,Refugio County,TX
+48409,San Patricio County,TX
+48469,Victoria County,TX
+48489,Willacy County,TX
+51001,Accomack County,VA
+51013,Arlington County,VA
+51033,Caroline County,VA
+51036,Charles City County,VA
+51041,Chesterfield County,VA
+51057,Essex County,VA
+51059,Fairfax County,VA
+51073,Gloucester County,VA
+51085,Hanover County,VA
+51087,Henrico County,VA
+51093,Isle of Wight County,VA
+51095,James City County,VA
+51097,King and Queen County,VA
+51099,King George County,VA
+51101,King William County,VA
+51103,Lancaster County,VA
+51115,Mathews County,VA
+51119,Middlesex County,VA
+51127,New Kent County,VA
+51131,Northampton County,VA
+51133,Northumberland County,VA
+51149,Prince George County,VA
+51153,Prince William County,VA
+51159,Richmond County,VA
+51177,Spotsylvania County,VA
+51179,Stafford County,VA
+51181,Surry County,VA
+51193,Westmoreland County,VA
+51199,York County,VA
+51510,Alexandria city,VA
+51550,Chesapeake city,VA
+51650,Hampton city,VA
+51670,Hopewell city,VA
+51700,Newport News city,VA
+51710,Norfolk city,VA
+51735,Poquoson city,VA
+51740,Portsmouth city,VA
+51760,Richmond city,VA
+51800,Suffolk city,VA
+51810,Virginia Beach city,VA
+51830,Williamsburg city,VA
+53009,Clallam County,WA
+53027,Grays Harbor County,WA
+53029,Island County,WA
+53031,Jefferson County,WA
+53033,King County,WA
+53035,Kitsap County,WA
+53045,Mason County,WA
+53049,Pacific County,WA
+53053,Pierce County,WA
+53055,San Juan County,WA
+53057,Skagit County,WA
+53061,Snohomish County,WA
+53067,Thurston County,WA
+53069,Wahkiakum County,WA
+53073,Whatcom County,WA
+55003,Ashland County,WI
+55007,Bayfield County,WI
+55009,Brown County,WI
+55029,Door County,WI
+55031,Douglas County,WI
+55051,Iron County,WI
+55059,Kenosha County,WI
+55061,Kewaunee County,WI
+55071,Manitowoc County,WI
+55075,Marinette County,WI
+55079,Milwaukee County,WI
+55083,Oconto County,WI
+55089,Ozaukee County,WI
+55101,Racine County,WI
+55117,Sheboygan County,WI
